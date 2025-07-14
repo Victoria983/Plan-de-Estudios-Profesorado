@@ -26,3 +26,9 @@ h1 {
   transform: scale(1.02);
   background-color: #e6f2ff;
 }
+.aprobada {
+  background-color: #d4edda !important;
+  border-color: #28a745;
+  color: #155724;
+  text-decoration: line-through;
+}
